@@ -14,7 +14,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'JIN~k9B1CBgb#QMKsT3x4pt7oTQOH-F4ve-_6b6sjH-_z_cI7mkPVf8s' 
 //Enter your JINWOO BOT session id here; must start with JIN~
 
 //=================================================//
